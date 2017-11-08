@@ -9,4 +9,4 @@ alt="HoloRecord" width="480" height="360" border="10" /></a>
 
 
 Editor Extention
-![alt text](http://hi-rom.com/blog/wp-content/uploads/2017/11/HoloRecordEditor.png"HoloRecordEditor")
+![alt text](http://hi-rom.com/blog/wp-content/uploads/2017/11/HoloRecordEditor.png "HoloRecordEditor")
